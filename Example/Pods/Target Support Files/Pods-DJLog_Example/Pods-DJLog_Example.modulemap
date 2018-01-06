@@ -1,0 +1,6 @@
+framework module Pods_DJLog_Example {
+  umbrella header "Pods-DJLog_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
